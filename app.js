@@ -9,7 +9,7 @@ var express         = require("express"),
     Comment         = require("./models/comment"),
     User            = require("./models/user"),
     flash           = require("connect-flash"),
-    seedDB          = require("./seeds")
+    seedDB          = require("./seeds");
     
 //requiring routes
 var commentRoutes    = require("./routes/comments"),
