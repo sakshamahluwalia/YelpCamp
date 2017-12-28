@@ -1,9 +1,6 @@
-.thumbnail {
-    padding: 0;
-}
-
 .thumbnail img {
     width: 100%;
+    height: 200px;
 }
 
 #indexbox {
